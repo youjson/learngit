@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git change.
 Git change2.
 Creating a branch is quick and simple.
-add merge add onceagain
+add merge add onceagain bug
